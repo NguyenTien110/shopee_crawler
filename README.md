@@ -20,7 +20,7 @@ python3 test2.py
 
 ## Kết quả:
 - Test 1:
-    + Số lượng sản phẩm lấy được: 145939
+    + Số lượng sản phẩm lấy được: 145939, cho tổng số 27 loại mặt hàng lớn
     + Số lượng sản phẩm lấy được trong một phút xấp xỉ: 71152 sản phẩm
 - Test 2:
     + Số lượng sản phẩm transform trong một phút xấp xỉ: 1010660 sản phẩm
