@@ -60,6 +60,7 @@ coverage.xml
 
 # Django stuff:
 *.log
+!result/result_test*
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -130,5 +131,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-data.csv
-formatted_data.csv
+data/data.csv
+data/formatted_data.csv
+*.json
+.fuse_hidden*
