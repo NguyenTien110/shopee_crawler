@@ -2,36 +2,36 @@
 khối lượng dữ liệu raw: (145939, 148)
 8.663983583450317
 Số lượng sản phẩm transform trong một phút 1010659.8097353393
-1. Số lượng mặt hàng Thời Trang Nam là: 10741 . Số lượng không trùng: 9911
-2. Số lượng mặt hàng Thời Trang Nữ là: 11000 . Số lượng không trùng: 10366
-3. Số lượng mặt hàng Điện Thoại & Phụ Kiện là: 5764 . Số lượng không trùng: 5212
-4. Số lượng mặt hàng Mẹ & Bé là: 7740 . Số lượng không trùng: 6913
-5. Số lượng mặt hàng Thiết Bị Điện Tử là: 5573 . Số lượng không trùng: 4987
-6. Số lượng mặt hàng Nhà Cửa & Đời Sống là: 8000 . Số lượng không trùng: 7345
-7. Số lượng mặt hàng Máy Tính & Laptop là: 5360 . Số lượng không trùng: 4660
-8. Số lượng mặt hàng Sắc Đẹp là: 6000 . Số lượng không trùng: 5361
-9. Số lượng mặt hàng Máy Ảnh & Máy Quay Phim là: 3480 . Số lượng không trùng: 2872
+1. Số lượng mặt hàng Thời Trang Nam là: 10741 . Số lượng không trùng: 10236
+2. Số lượng mặt hàng Thời Trang Nữ là: 11000 . Số lượng không trùng: 10765
+3. Số lượng mặt hàng Điện Thoại & Phụ Kiện là: 5764 . Số lượng không trùng: 5573
+4. Số lượng mặt hàng Mẹ & Bé là: 7740 . Số lượng không trùng: 7277
+5. Số lượng mặt hàng Thiết Bị Điện Tử là: 5573 . Số lượng không trùng: 5320
+6. Số lượng mặt hàng Nhà Cửa & Đời Sống là: 8000 . Số lượng không trùng: 7677
+7. Số lượng mặt hàng Máy Tính & Laptop là: 5360 . Số lượng không trùng: 5011
+8. Số lượng mặt hàng Sắc Đẹp là: 6000 . Số lượng không trùng: 5677
+9. Số lượng mặt hàng Máy Ảnh & Máy Quay Phim là: 3480 . Số lượng không trùng: 3223
+10. Số lượng mặt hàng Sức Khỏe là: 4116 . Số lượng không trùng: 3958
+11. Số lượng mặt hàng Đồng Hồ là: 3021 . Số lượng không trùng: 2787
 ----------------- WARNING ------------: số lượng mặt hàng không thỏa mãn yêu cầu đề bài
-10. Số lượng mặt hàng Sức Khỏe là: 4116 . Số lượng không trùng: 3699
-11. Số lượng mặt hàng Đồng Hồ là: 3021 . Số lượng không trùng: 2455
+12. Số lượng mặt hàng Giày Dép Nữ là: 4500 . Số lượng không trùng: 4304
+13. Số lượng mặt hàng Giày Dép Nam là: 4334 . Số lượng không trùng: 4157
+14. Số lượng mặt hàng Túi Ví Nữ là: 5332 . Số lượng không trùng: 5010
+15. Số lượng mặt hàng Thiết Bị Điện Gia Dụng là: 4500 . Số lượng không trùng: 4308
+16. Số lượng mặt hàng Phụ Kiện & Trang Sức Nữ là: 9070 . Số lượng không trùng: 8702
+17. Số lượng mặt hàng Thể Thao & Du Lịch là: 4500 . Số lượng không trùng: 4276
+18. Số lượng mặt hàng Bách Hóa Online là: 6873 . Số lượng không trùng: 6530
+19. Số lượng mặt hàng Ô Tô & Xe Máy & Xe Đạp là: 5930 . Số lượng không trùng: 5648
+20. Số lượng mặt hàng Nhà Sách Online là: 5000 . Số lượng không trùng: 4766
+21. Số lượng mặt hàng Balo & Túi Ví Nam là: 4996 . Số lượng không trùng: 4632
+22. Số lượng mặt hàng Thời Trang Trẻ Em là: 4304 . Số lượng không trùng: 4205
+23. Số lượng mặt hàng Đồ Chơi là: 3500 . Số lượng không trùng: 3394
+24. Số lượng mặt hàng Giặt Giũ & Chăm Sóc Nhà Cửa là: 4680 . Số lượng không trùng: 4423
+25. Số lượng mặt hàng Chăm Sóc Thú Cưng là: 4000 . Số lượng không trùng: 3761
+26. Số lượng mặt hàng Voucher & Dịch Vụ là: 625 . Số lượng không trùng: 605
 ----------------- WARNING ------------: số lượng mặt hàng không thỏa mãn yêu cầu đề bài
-12. Số lượng mặt hàng Giày Dép Nữ là: 4500 . Số lượng không trùng: 3987
-13. Số lượng mặt hàng Giày Dép Nam là: 4334 . Số lượng không trùng: 3803
-14. Số lượng mặt hàng Túi Ví Nữ là: 5332 . Số lượng không trùng: 4758
-15. Số lượng mặt hàng Thiết Bị Điện Gia Dụng là: 4500 . Số lượng không trùng: 3898
-16. Số lượng mặt hàng Phụ Kiện & Trang Sức Nữ là: 9070 . Số lượng không trùng: 8370
-17. Số lượng mặt hàng Thể Thao & Du Lịch là: 4500 . Số lượng không trùng: 3969
-18. Số lượng mặt hàng Bách Hóa Online là: 6873 . Số lượng không trùng: 6157
-19. Số lượng mặt hàng Ô Tô & Xe Máy & Xe Đạp là: 5930 . Số lượng không trùng: 5238
-20. Số lượng mặt hàng Nhà Sách Online là: 5000 . Số lượng không trùng: 4426
-21. Số lượng mặt hàng Balo & Túi Ví Nam là: 4996 . Số lượng không trùng: 4279
-22. Số lượng mặt hàng Thời Trang Trẻ Em là: 4304 . Số lượng không trùng: 3894
-23. Số lượng mặt hàng Đồ Chơi là: 3500 . Số lượng không trùng: 3103
-24. Số lượng mặt hàng Giặt Giũ & Chăm Sóc Nhà Cửa là: 4680 . Số lượng không trùng: 3836
-25. Số lượng mặt hàng Chăm Sóc Thú Cưng là: 4000 . Số lượng không trùng: 3414
-26. Số lượng mặt hàng Voucher & Dịch Vụ là: 625 . Số lượng không trùng: 384
+27. Số lượng mặt hàng Dụng cụ và thiết bị tiện ích là: 3000 . Số lượng không trùng: 2866
 ----------------- WARNING ------------: số lượng mặt hàng không thỏa mãn yêu cầu đề bài
-27. Số lượng mặt hàng Dụng cụ và thiết bị tiện ích là: 3000 . Số lượng không trùng: 2547
------------------ WARNING ------------: số lượng mặt hàng không thỏa mãn yêu cầu đề bài
+tổng số lượng dữ liệu bị trùng: 6848
 
 Process finished with exit code 0

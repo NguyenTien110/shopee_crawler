@@ -131,7 +131,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-data/data.csv
-data/formatted_data.csv
-*.json
 .fuse_hidden*
+analysis.ipynb
