@@ -43,17 +43,19 @@ if __name__ == '__main__':
     print("khối lượng dữ liệu raw:", df_data.shape)
 
     # thực hiện transform
-    list_field = ['product_name', 'product_price', 'product_rating', 'product_url', 'product_revenue']
+    list_field = ['product_name', 'product_price', 'product_rating', 'product_revenue', 'product_url']
     s = time.time()
     # thực hiện lưu lại itemid và catid để phục vụ việc kiểm tra trùng lặp
     df_data[list_field + ['itemid', 'catid']] = df_data.apply(transform, axis=1, result_type='expand')
-    df_formatted_data = df_data[list_field]
+    df_transformed_data = df_data[list_field]
 
     # lưu lại vào file csv như yêu cầu
-    df_formatted_data.to_csv('data/formatted_data.csv', index=False)
+    df_transformed_data['product_name'] = df_transformed_data['product_name'].apply(lambda _x: repr(_x))
+    df_transformed_data.to_csv('data/transformed_data.csv', index=False)
+    df_transformed_data.to_excel('data/transformed_data_excel.xlsx', index=False)
     end = time.time()
     print(end - s)
-    print("============> Số lượng sản phẩm transform trong một phút", df_formatted_data.shape[0] / ((end - s) / 60))
+    print("============> Số lượng sản phẩm transform trong một phút", df_transformed_data.shape[0] / ((end - s) / 60))
 
     # thực hiện một vài thống kê để kiểm tra dữ liệu
     df_data_with_cat = df_data[list_field + ['itemid', 'catid', 'crawl_catid', 'shopid']].copy()
